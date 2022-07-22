@@ -1,1 +1,1 @@
-# beagle
+#An event page
